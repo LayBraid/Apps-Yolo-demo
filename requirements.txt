@@ -1,0 +1,4 @@
+Pillow
+pytorch
+matplotlib
+transformers==4.21.2
